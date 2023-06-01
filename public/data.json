@@ -1,0 +1,38 @@
+[
+    {
+    "id": 1,
+    "title": "Complete Project Proposal",
+    "description": "Write and submit project proposal for client X",
+    "endTime": "2023-06-10 12:00 PM",
+    "category": "urgent"
+    },
+    {
+    "id": 2,
+    "title": "Prepare Presentation",
+    "description": "Create slides for upcoming team meeting",
+    "endTime": "2023-06-05 10:00 AM",
+    "category": "important"
+    },
+    {
+    "id": 3,
+    "title": "Follow up with Clients",
+    "description": "Contact clients A, B, and C for feedback",
+    "endTime": "2023-06-08 04:30 PM",
+    "category": "urgent"
+    },
+    {
+    "id": 4,
+    "title": "Review Code Pull Request",
+    "description": "Check and provide feedback on PR #123",
+    "endTime": "2023-06-07 02:00 PM",
+    "category": "important"
+    },
+    {
+    "id": 5,
+    "title": "Pay Utility Bills",
+    "description": "Settle electricity and water bills",
+    "endTime": "2023-06-15 06:00 PM",
+    "category": "urgent"
+    }
+    ]
+    
